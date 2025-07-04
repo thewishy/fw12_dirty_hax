@@ -1,0 +1,4 @@
+# Dirty and insecure hacks, really not a good diea
+# But then, good luck making this work via touchscreen conveniently
+sudo chown root:root framework_tool
+sudo chmod 4775 framework_tool
